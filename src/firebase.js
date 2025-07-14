@@ -5,14 +5,13 @@ import { addDoc, collection, getFirestore } from "firebase/firestore";
 import { toast } from "react-toastify";
 
 
-// Your Firebase configuration object
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",       
-  messagingSenderId: "YOUR_SENDER_ID",                
-  appId: "YOUR_APP_ID"                                
+  apiKey: "AIzaSyBgKdMLrMb5H_Z7yv6xWCADlhMz3b1srTE",
+  authDomain: "netflix-clone-52399.firebaseapp.com",
+  projectId: "netflix-clone-52399",
+  storageBucket: "netflix-clone-52399.firebasestorage.app",
+  messagingSenderId: "134324877073",
+  appId: "1:134324877073:web:949a61bcd4c79b445b7eb0"
 };
 
 
