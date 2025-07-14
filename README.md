@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-[🔗 View Live Website] (https://netflix-clone-sage-nine.vercel.app/)
+[🔗 View Live Website] (https://netflixclone-phi-gold.vercel.app)
 
 
 # 🎬 Netflix Clone
