@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+[🔗 View Live Website]  (https://netflix-clone-git-main-harsh-singhs-projects-776d86c7.vercel.app/login)
+
+
 # 🎬 Netflix Clone
 
 A simple front-end clone of the Netflix website built using **HTML**, **CSS**, and **JavaScript**, with real movie data fetched from **TMDB API** and user authentication using **Firebase**.
